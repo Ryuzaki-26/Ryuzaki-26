@@ -4,8 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+Shailesh+Yadav;I%27m+from+Mumbai;I%27m+a+Hacker;Be+Welcome!+%E3%83%84)
 
-- 🔭 I’m currently working on [Web Based ChatBox](https://github.com/anubhavv106/web-based-chat-box.git)
-
 - 📫 How to reach me **yshailesh0926@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/shailesh-yadav-755627247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
